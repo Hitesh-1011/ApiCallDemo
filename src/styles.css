@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+body{
+ margin:0; 
+}
+
 td {
   min-width: 100px;
 }
