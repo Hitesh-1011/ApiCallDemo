@@ -59,7 +59,6 @@ export default function MyComponent() {
               </tr>
             </thead>
             <tbody>
-              {console.log(arrELement)}
               {arrELement.map((item) => (
                 <tr>
                   <th scope="row">{item.id}</th>
